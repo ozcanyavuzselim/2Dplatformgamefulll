@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Graund
+  - PlayerBullet
+  - Coin
+  - PowerUp
+  - Water
+  - Enemy
+  - RewardCoin
+  - BigBoss
+  - BossKey
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - parallax
+  - Player
+  - Ground
+  - Collectibles
+  - Enemy
+  - PlayerBullet
+  - RewardCain
+  - Bullet
+  - Key
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 222808341
+    locked: 0
+  - name: Foreground
+    uniqueID: 3153364087
+    locked: 0
+  - name: UI
+    uniqueID: 3568235461
+    locked: 0
