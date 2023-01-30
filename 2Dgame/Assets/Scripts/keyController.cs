@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class keyController : MonoBehaviour
 {
-
+    //Player'ın anahtarı aldığında olanlar
     public int keyNumber;
     private void OnTriggerEnter2D(Collider2D other)
     {
